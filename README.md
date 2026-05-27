@@ -1,19 +1,3 @@
-# REPORTE TÉCNICO DE SISTEMAS DISTRIBUIDOS
-
-## PROYECTO FINAL: CHAT DISTRIBUIDO CON HISTORIAL PERSISTENTE
-
-**Materia:** Sistemas Distribuidos  
-**Profesor:** Sergio Alejandro Pérez Rodríguez  
-**Institución:** Universidad Autónoma de Querétaro, Facultad de Informática  
-**Equipo de Desarrollo:**
-* José Uriel Ortiz Pacheco
-* Luis Angel Barrera Barrera
-* Diego Becerril Rodríguez
-
-**Fecha de entrega:** Mayo de 2026  
-
----
-
 ## 1. Descripción del Sistema
 Como equipo de ingeniería, diseñamos e implementamos una plataforma completa de chat distribuido multiusuario que opera a nivel de consola sobre entornos Linux (Ubuntu). 
 
