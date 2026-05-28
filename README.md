@@ -293,8 +293,8 @@ if __name__ == "__main__":
 Configuramos de forma local las firmas de Git, creamos exclusiones para la carpeta virtual e interactuamos con el servidor remoto forzando la sincronización de nuestra rama principal:
 
 ```bash
-git config --global user.name "OuroWrench"
-git config --global user.email "luisangelbarrera877@gmail.com"
+git config --global user.name "example"
+git config --global user.email "example@gmail.com"
 git init
 echo "venv/" > .gitignore
 git add .
